@@ -16,4 +16,6 @@ Welcome to my portfolio!
 
 ! [a super cute orange tabby cat] (/assets/image_file_name.jpg/)
   
-  
+ 
+[Projects](/projects/)
+
