@@ -10,4 +10,8 @@ for a video, you can copy the embed code
 it will render 
 
 ## Project #2: 
-<! --- Comment 
+you can also copy in a powerpoint or a paper to embed it into the page 
+
+Links: 
+[Here's a link to a paper] (url)
+
